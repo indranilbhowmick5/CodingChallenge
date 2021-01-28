@@ -1,0 +1,9 @@
+D:\Indranil\aw-coding-challenge-main\CodingChallenge.DataAccess\bin\Debug\CodingChallenge.DataAccess.dll
+D:\Indranil\aw-coding-challenge-main\CodingChallenge.DataAccess\bin\Debug\CodingChallenge.DataAccess.pdb
+D:\Indranil\aw-coding-challenge-main\CodingChallenge.DataAccess\bin\Debug\CodingChallenge.Utilities.dll
+D:\Indranil\aw-coding-challenge-main\CodingChallenge.DataAccess\bin\Debug\CodingChallenge.Utilities.pdb
+D:\Indranil\aw-coding-challenge-main\CodingChallenge.DataAccess\obj\Debug\CodingChallenge.DataAccess.csprojAssemblyReference.cache
+D:\Indranil\aw-coding-challenge-main\CodingChallenge.DataAccess\obj\Debug\CodingChallenge.DataAccess.csproj.CoreCompileInputs.cache
+D:\Indranil\aw-coding-challenge-main\CodingChallenge.DataAccess\obj\Debug\CodingChallenge.DataAccess.csproj.CopyComplete
+D:\Indranil\aw-coding-challenge-main\CodingChallenge.DataAccess\obj\Debug\CodingChallenge.DataAccess.dll
+D:\Indranil\aw-coding-challenge-main\CodingChallenge.DataAccess\obj\Debug\CodingChallenge.DataAccess.pdb

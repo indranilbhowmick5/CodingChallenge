@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Indranil\\aw-coding-challenge-main\\CodingChallenge.WebAPI\\CodingChallenge.WebCoreAPI.csproj": {}
+  },
+  "projects": {
+    "D:\\Indranil\\aw-coding-challenge-main\\CodingChallenge.DataAccess\\CodingChallenge.DataAccess.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Indranil\\aw-coding-challenge-main\\CodingChallenge.DataAccess\\CodingChallenge.DataAccess.csproj",
+        "projectName": "CodingChallenge.DataAccess",
+        "projectPath": "D:\\Indranil\\aw-coding-challenge-main\\CodingChallenge.DataAccess\\CodingChallenge.DataAccess.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {
+              "D:\\Indranil\\aw-coding-challenge-main\\CodingChallenge.Utilities\\CodingChallenge.Utilities.csproj": {
+                "projectPath": "D:\\Indranil\\aw-coding-challenge-main\\CodingChallenge.Utilities\\CodingChallenge.Utilities.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "D:\\Indranil\\aw-coding-challenge-main\\CodingChallenge.Utilities\\CodingChallenge.Utilities.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Indranil\\aw-coding-challenge-main\\CodingChallenge.Utilities\\CodingChallenge.Utilities.csproj",
+        "projectName": "CodingChallenge.Utilities",
+        "projectPath": "D:\\Indranil\\aw-coding-challenge-main\\CodingChallenge.Utilities\\CodingChallenge.Utilities.csproj"
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "D:\\Indranil\\aw-coding-challenge-main\\CodingChallenge.WebAPI\\CodingChallenge.WebCoreAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Indranil\\aw-coding-challenge-main\\CodingChallenge.WebAPI\\CodingChallenge.WebCoreAPI.csproj",
+        "projectName": "CodingChallenge.WebCoreAPI",
+        "projectPath": "D:\\Indranil\\aw-coding-challenge-main\\CodingChallenge.WebAPI\\CodingChallenge.WebCoreAPI.csproj",
+        "packagesPath": "C:\\Users\\ibhowmi\\.nuget\\packages\\",
+        "outputPath": "D:\\Indranil\\aw-coding-challenge-main\\CodingChallenge.WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ibhowmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Indranil\\aw-coding-challenge-main\\CodingChallenge.DataAccess\\CodingChallenge.DataAccess.csproj": {
+                "projectPath": "D:\\Indranil\\aw-coding-challenge-main\\CodingChallenge.DataAccess\\CodingChallenge.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
